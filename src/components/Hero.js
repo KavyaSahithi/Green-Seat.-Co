@@ -8,7 +8,7 @@ const Hero = () => {
     <Wrapper className='section-center'>
       <article className='content'>
         <h1>
-          design your <br />
+          Furnish your <br />
           very own nest
         </h1>
         <p>
